@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Stories</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The elephant and the hare🐇</h1>
+        <p>
+            Once upon a time, an elephant named Eliza. And a<br>hare named Happy both challenged each other to see who can<br> eat more food. So Eliza and Happy went to the board walk, then they both<br>got some popcorn, 173 bags of popcorn. So Eliza ate 102 pieces of popcorn. And <br>Happy ate 113 pieces of popcorn. So Happy won the challenge.
+        </p>
+        <h2>The mystery of the missing glass vase!</h2>
+        <p>
+            One day Sally saw that her glass vase cracked. But then she saw that it was <br> a fake one. And her glass vase is missing. She called 911. They arrived 20 minutes<br> later. Robert  who was the police man,  saw that the vase was cracked. Then he saw a minute later that the vase was fake. And the police officer new who did it. Because he has one friend named Brunt. He loves to steal glass things because they're worth a lot of money. So Brunt got cought and we interrogated him. Then he went to jail.
+        </p>
+    </body>
+</html>
