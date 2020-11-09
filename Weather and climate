@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Why Weather is differnt from climate </title>
+    </head>
+    <body>
+    <style>
+        .background {
+            color:white;
+            font-size:4em;
+            font-family:monospace;
+            
+        }
+        body {
+            color:white;
+            background-color:pink;
+            font-family:monospace;
+            font-size:3em;
+        }
+        
+        
+    </style>
+     <h1 class="background"> Why Weather is differnt from climate </h1>
+     <p> Weather is differnt from climate because climate is weather that has<break> patterns around the <strong>world</strong> </p>
+     
+     
+    </body>
+</html>
